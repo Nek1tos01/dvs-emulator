@@ -1,0 +1,5 @@
+# Runtime dependencies; no v2e, ESIM or SNN framework is required.
+numpy>=1.26,<3
+opencv-python>=4.8,<6
+torch>=2.4,<3
+matplotlib>=3.8,<4

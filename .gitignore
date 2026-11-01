@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.publication-work/
+outputs/
+*.npy
+Videos/*
+!Videos/IMG_7181.MP4
